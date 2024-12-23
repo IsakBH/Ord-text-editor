@@ -1,0 +1,8 @@
+# List of source files containing translatable strings.
+# Please keep this file sorted alphabetically.
+data/no.brunhenriksen.Ord.desktop.in
+data/no.brunhenriksen.Ord.metainfo.xml.in
+data/no.brunhenriksen.Ord.gschema.xml
+src/main.py
+src/window.py
+src/window.ui
