@@ -1,4 +1,4 @@
-# [Prøv Ord Online!](https://isak.brunhenriksen.no/Texteditor/)
+# [Prøv Ord Online!](https://isak.brunhenriksen.no/Ord_online)
 
 ![image](https://github.com/user-attachments/assets/3cc43d95-6dea-4285-ba6f-6a0b6c92ebbd)
 # Ord text editor
