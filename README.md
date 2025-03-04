@@ -1,6 +1,6 @@
 # [Prøv Ord Online!](https://isak.brunhenriksen.no/Ord_online)
 
-## holder på å rewrite hele driten i rust for å gjøre den bedre
+## har tenkt til å rewrite hele driten i rust
 
 ![image](https://github.com/user-attachments/assets/3cc43d95-6dea-4285-ba6f-6a0b6c92ebbd)
 # Ord text editor
