@@ -1,4 +1,4 @@
-# [Prøv Ord Online!](https://isak.brunhenriksen.no/Ord_online)
+# [Prøv Ord På Nett! (tidligere Ord Online)](https://isak.brunhenriksen.no/Ord_online)
 
 ## har tenkt til å rewrite hele driten i rust (skjer aldri)
 
